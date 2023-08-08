@@ -1,0 +1,895 @@
+fileFormatVersion: 2
+guid: 2fa45cdfa741c504fa28e0d55ea78576
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3993688305953481929
+    second: puertaFase1_0
+  - first:
+      213: 882935454016341441
+    second: puertaFase1_2
+  - first:
+      213: -7974102898087811885
+    second: puertaFase1_24
+  - first:
+      213: -415878703793178835
+    second: puertaFase1_25
+  - first:
+      213: -4400316694453287959
+    second: puertaFase1_26
+  - first:
+      213: -337902760894626448
+    second: puertaFase1_27
+  - first:
+      213: -8536147578561200417
+    second: puertaFase1_28
+  - first:
+      213: 4244892032502738844
+    second: puertaFase1_29
+  - first:
+      213: 8644739085205191877
+    second: puertaFase1_30
+  - first:
+      213: 4834582285248067807
+    second: puertaFase1_31
+  - first:
+      213: 257265102654547819
+    second: puertaFase1_32
+  - first:
+      213: -186790751722479928
+    second: puertaFase1_33
+  - first:
+      213: 1192185242655688203
+    second: puertaFase1_34
+  - first:
+      213: -2210581973722251728
+    second: puertaFase1_36
+  - first:
+      213: -6466604175989651078
+    second: puertaFase1_38
+  - first:
+      213: 7424264193020494122
+    second: puertaFase1_39
+  - first:
+      213: -2400883746900744354
+    second: puertaFase1_40
+  - first:
+      213: -395429785136135403
+    second: puertaFase1_44
+  - first:
+      213: -4915159142566476188
+    second: puertaFase1_45
+  - first:
+      213: -3229503587857086920
+    second: puertaFase1_46
+  - first:
+      213: -1650200218021829922
+    second: puertaFase1_47
+  - first:
+      213: 3430182804173270855
+    second: puertaFase1_48
+  - first:
+      213: 6371079251875870055
+    second: puertaFase1_49
+  - first:
+      213: 3610305171479634538
+    second: puertaFase1_50
+  - first:
+      213: -287252188594187334
+    second: puertaFase1_51
+  - first:
+      213: 8540663201139653747
+    second: puertaFase1_52
+  - first:
+      213: -4604375076755969442
+    second: puertaFase1_53
+  - first:
+      213: -2714136730384729892
+    second: puertaFase1_62
+  - first:
+      213: -4511598691405803462
+    second: puertaFase1_63
+  - first:
+      213: 1786098652975112951
+    second: puertaFase1_64
+  - first:
+      213: -2986439139235475376
+    second: puertaFase1_65
+  - first:
+      213: -2640642270562086257
+    second: puertaFase1_66
+  - first:
+      213: 4517433008036709586
+    second: puertaFase1_67
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: puertaFase1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 484
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba43c8ef581e1b4fbaa28173bce99e3
+      internalID: -3993688305953481929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 484
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28770c845dbd78a4c8dc2deeb8565e5e
+      internalID: 882935454016341441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_24
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 485
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530abe2fc9dc0844eb25cbb7d6265d13
+      internalID: -7974102898087811885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 484
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecc7eaed9c236c4abcfcbffb6f2980b
+      internalID: -415878703793178835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_26
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 484
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50b04f87103efb438a1a899fb3a653d
+      internalID: -4400316694453287959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_27
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 484
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99446761a9ea2834a97eda6054647cc0
+      internalID: -337902760894626448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 484
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c406f0f054476d3409a40539d4bc3e75
+      internalID: -8536147578561200417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 484
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdd1e50dd2110747936a8fbd4be6ec0
+      internalID: 4244892032502738844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_30
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 484
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2c6be1d47f7fe479a1af19c222fb7f
+      internalID: 8644739085205191877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_31
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 484
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55423ff138c45b488258649e41f79d2
+      internalID: 4834582285248067807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_32
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 484
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f04e40d460d3424baa0c0f1c658708d
+      internalID: 257265102654547819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_33
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 484
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22a9a02374e7ff4d89dab738d92acc7
+      internalID: -186790751722479928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 427
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b539434835ed643a3a3238bea3b893
+      internalID: 1192185242655688203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_36
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 427
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672b4c9a16bb67d478134a7dda1af8ad
+      internalID: -2210581973722251728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_38
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 427
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c01113b1370ff48989a852d309dca1
+      internalID: -6466604175989651078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_39
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 427
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d72a3e79c26954fb7d39c1e0cf5cbd
+      internalID: 7424264193020494122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_40
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 427
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50b7f19364fda1478b65e934b8bc302
+      internalID: -2400883746900744354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 386
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894bcf7e8808fab4481ea5ad7038a78d
+      internalID: -395429785136135403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_45
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 386
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ac5f6c3337b3c4984d1700ec11d2ab
+      internalID: -4915159142566476188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 386
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec475f4c7ade2b4eaffef1e57ac7786
+      internalID: -3229503587857086920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_47
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 386
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5422093ca71c11c47b4ee1fbdea94d55
+      internalID: -1650200218021829922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_48
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 386
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c88fa9070ee9e845817d698f6d1facc
+      internalID: 3430182804173270855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 391
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d21b5630185c5468b0af0f92fc5f09
+      internalID: 6371079251875870055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_50
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 387
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c329fe32627422445bacd02f30b9c903
+      internalID: 3610305171479634538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_51
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 386
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9f753fb5ecf304f9f550e35fd3df54
+      internalID: -287252188594187334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_52
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 386
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cf17ddd059c6f4c8fe317f1a27c878
+      internalID: 8540663201139653747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_53
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 386
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22afedf0fda9264997a4e2f950ed81c
+      internalID: -4604375076755969442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 220
+        width: 130
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1866584391ff9f741b6a6b534d2f46de
+      internalID: -2714136730384729892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_63
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 220
+        width: 130
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e138ba1a89c8a409f7fbc7544c7375
+      internalID: -4511598691405803462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_64
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 220
+        width: 130
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ceb16a18331cc479c0fe44cf239fd8
+      internalID: 1786098652975112951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 195
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c0d1d0cb3276e47a2abf89914c4cfd
+      internalID: -2986439139235475376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_66
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3
+        width: 194
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f89e73dbcec5945bf2119a506dd533
+      internalID: -2640642270562086257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puertaFase1_67
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3
+        width: 192
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a96719407d791640bbff1f958a54d52
+      internalID: 4517433008036709586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

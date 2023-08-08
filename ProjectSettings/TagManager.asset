@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pared
+  - Piso
+  - Slime
+  - Slot1
+  - "TriggerDa\xF1o"
+  - Enemigo
+  - Electrico
+  - Acido
+  - Fuego
+  - Plataforma Movil
+  - Poder Rayo Puro
+  - Lluvia
+  - Semilla
+  - Poder Fuego Puro
+  - KeyBind
+  - Motor
+  - Jefe
+  - Molotov
+  - BigBoy
+  - Simi
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Piso
+  - Enemigo
+  - Jefe
+  - Jugador
+  - Motor
+  - Semilla
+  - Lluvia
+  - MadDoor
+  - Piedra
+  - Arbol
+  - Background
+  - Jefe2
+  - Jefe3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Foreground
+    uniqueID: 63796879
+    locked: 0
+  - name: Background
+    uniqueID: 1784802301
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Jugador
+    uniqueID: 1375867749
+    locked: 0
+  - name: Jefe
+    uniqueID: 1473244815
+    locked: 0

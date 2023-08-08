@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1398527123035990798
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1398527123035990832}
+  - component: {fileID: 1398527123035990833}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1398527123035990832
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1398527123035990798}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1398527123035990833
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1398527123035990798}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5067b303d3750cc4c85adcaa56fd5758, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sonidos:
+  - nombre: Salto
+    clip: {fileID: 8300000, guid: 0d3921ee05bbdb449b9fba99609a4f01, type: 3}
+    loop: 0
+    volumen: 1
+  - nombre: Explosion
+    clip: {fileID: 8300000, guid: 74dbd2519dbe52642a25f3e7c2263779, type: 3}
+    loop: 0
+    volumen: 1
+  - nombre: BolaDeFuego
+    clip: {fileID: 8300000, guid: f45bf05e4b3ebbd44888673af6ea109a, type: 3}
+    loop: 0
+    volumen: 1
+  - nombre: Agarrar
+    clip: {fileID: 8300000, guid: 7fa138c9d922b4240823700ca854b905, type: 3}
+    loop: 0
+    volumen: 1
+  - nombre: Rayo
+    clip: {fileID: 8300000, guid: c1fc2de9a97f8964b8bd3e2659e1f90f, type: 3}
+    loop: 0
+    volumen: 1
+  - nombre: SlimeMuerte
+    clip: {fileID: 8300000, guid: fc8cb12979515ae4d8e1733c7f502d04, type: 3}
+    loop: 0
+    volumen: 1
+  - nombre: "CientificoDa\xF1o"
+    clip: {fileID: 8300000, guid: 1346c47b087daa84cb8d248e5838060f, type: 3}
+    loop: 0
+    volumen: 0.7
+  - nombre: "M\xFAsica"
+    clip: {fileID: 8300000, guid: 1e8ab9353fbb91e4db43ed82f812c7d7, type: 3}
+    loop: 1
+    volumen: 0.7
+  - nombre: NivelCompletado
+    clip: {fileID: 8300000, guid: c60f51d6faef2d742ae29fa0d1c4cda7, type: 3}
+    loop: 0
+    volumen: 0.7
+  - nombre: Lluvia
+    clip: {fileID: 8300000, guid: 05b3924812992cb44b58363604e4413b, type: 3}
+    loop: 1
+    volumen: 0.7
+  - nombre: Molotov
+    clip: {fileID: 8300000, guid: 81f5bd2473504d54f8ab84b640188b4b, type: 3}
+    loop: 0
+    volumen: 0.7
+  - nombre: PowerUp
+    clip: {fileID: 8300000, guid: e3f4cbe25c4f36043a13c9ccf06ecc2e, type: 3}
+    loop: 0
+    volumen: 0.7
+  - nombre: PowerDown
+    clip: {fileID: 8300000, guid: 3d85fede231b9a6459a2ccd0c556ad38, type: 3}
+    loop: 0
+    volumen: 1
+  - nombre: CientificoMuerte
+    clip: {fileID: 8300000, guid: 05499b6993354b543bc8b6e371f50559, type: 3}
+    loop: 0
+    volumen: 1
+  - nombre: Titulo
+    clip: {fileID: 8300000, guid: f56308a0c3236db44988a80d644ff33a, type: 3}
+    loop: 1
+    volumen: 1
+  - nombre: Encuentro
+    clip: {fileID: 8300000, guid: 172da724b57f4c04ebacfcd253c26e50, type: 3}
+    loop: 0
+    volumen: 0.26
+  - nombre: Jefe
+    clip: {fileID: 8300000, guid: 4667ca6b03235a4498d43670fe41d75a, type: 3}
+    loop: 1
+    volumen: 1
+  - nombre: Atomo
+    clip: {fileID: 8300000, guid: 47cd65ea74c9ce24a93398b3e83b0a03, type: 3}
+    loop: 0
+    volumen: 1
+  - nombre: Musica2
+    clip: {fileID: 8300000, guid: fbc2926e9f58a6f4482a76cd1c256246, type: 3}
+    loop: 1
+    volumen: 1
+  - nombre: Musica3
+    clip: {fileID: 8300000, guid: 9c4ea3c90bfb2bc4a9ab73e3d7bfe959, type: 3}
+    loop: 1
+    volumen: 1
+  - nombre: VsSimi
+    clip: {fileID: 8300000, guid: 9e51158cca7b0274087dd0f5eec7bf4e, type: 3}
+    loop: 1
+    volumen: 1
+  - nombre: Creditos
+    clip: {fileID: 8300000, guid: 3a2bc3078a8dc874ba06c01cd15bcfcd, type: 3}
+    loop: 1
+    volumen: 1
+  - nombre: DisparoTorreta
+    clip: {fileID: 8300000, guid: 8fd99fa9cbbc1ca4d80c2119ea04761f, type: 3}
+    loop: 0
+    volumen: 1
+  - nombre: VsBigBoy
+    clip: {fileID: 8300000, guid: 2724992672982fb4d8be43e151a2b67e, type: 3}
+    loop: 1
+    volumen: 1
+  - nombre: MuerteMechaniel
+    clip: {fileID: 8300000, guid: 47e7ec6951ac0534488811e7e438f0ea, type: 3}
+    loop: 0
+    volumen: 1
+  - nombre: ProyectilMechaniel
+    clip: {fileID: 8300000, guid: 7d27340178ec48b4585b2e6d4bcddf7c, type: 3}
+    loop: 0
+    volumen: 1
+  - nombre: MechanielSuelo
+    clip: {fileID: 8300000, guid: 7d27340178ec48b4585b2e6d4bcddf7c, type: 3}
+    loop: 0
+    volumen: 1

@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: edc7d4ca8a6b9db41a807bc9cdac4501
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6500765053146662562
+    second: DrSimi_Sprite_Sheet_0
+  - first:
+      213: 2428592500369256622
+    second: DrSimi_Sprite_Sheet_1
+  - first:
+      213: -8054959109308121690
+    second: DrSimi_Sprite_Sheet_2
+  - first:
+      213: -6108968515267016222
+    second: DrSimi_Sprite_Sheet_3
+  - first:
+      213: 6654404217238062954
+    second: DrSimi_Sprite_Sheet_4
+  - first:
+      213: 8785281985116958345
+    second: DrSimi_Sprite_Sheet_5
+  - first:
+      213: 8182044875174848443
+    second: DrSimi_Sprite_Sheet_6
+  - first:
+      213: -4386337299550518314
+    second: DrSimi_Sprite_Sheet_7
+  - first:
+      213: 5661957688714120827
+    second: DrSimi_Sprite_Sheet_8
+  - first:
+      213: 7245611084297161407
+    second: DrSimi_Sprite_Sheet_9
+  - first:
+      213: 6632849054340352827
+    second: DrSimi_Sprite_Sheet_10
+  - first:
+      213: -3698691572330461732
+    second: DrSimi_Sprite_Sheet_11
+  - first:
+      213: -4013249842193455992
+    second: DrSimi_Sprite_Sheet_12
+  - first:
+      213: 8206822264222455344
+    second: DrSimi_Sprite_Sheet_13
+  - first:
+      213: -5103319652632731450
+    second: DrSimi_Sprite_Sheet_14
+  - first:
+      213: -2489961889550631582
+    second: DrSimi_Sprite_Sheet_15
+  - first:
+      213: 3338562539169518006
+    second: DrSimi_Sprite_Sheet_16
+  - first:
+      213: 9072856171694060850
+    second: DrSimi_Sprite_Sheet_17
+  - first:
+      213: -1036759433511732708
+    second: DrSimi_Sprite_Sheet_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DrSimi_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 417
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b79ded35cb05045bda3d050b823b0f
+      internalID: 6500765053146662562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrSimi_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 417
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a600ac8ceda16aa42890b2e3d83edc74
+      internalID: 2428592500369256622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrSimi_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 371
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9913cf3ccef18945bdad10fdc37dce4
+      internalID: -8054959109308121690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrSimi_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 370
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a885d11c724cbde4bba9864bea7d251c
+      internalID: -6108968515267016222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrSimi_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 370
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8d0840d023be34b9a7204ccc72ffbd
+      internalID: 6654404217238062954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrSimi_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 370
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0557addbe0581654d879e100bde8a257
+      internalID: 8785281985116958345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrSimi_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 370
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac05bb69d72d0f240ad0bf7e4efc465f
+      internalID: 8182044875174848443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrSimi_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 322
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c8d4774763a414d968d27326cab0e9
+      internalID: -4386337299550518314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrSimi_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 322
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4d7aee5e4811347ac83af35308104e
+      internalID: 5661957688714120827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrSimi_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 322
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5280b0a039e157b4382a2b90ef97da19
+      internalID: 7245611084297161407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrSimi_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 268
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350a38254c284954bb785b85719f91c4
+      internalID: 6632849054340352827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrSimi_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 268
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffad1edc1c918c145811800263b7d864
+      internalID: -3698691572330461732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrSimi_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 268
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85293d97f085be644a7f56872873a706
+      internalID: -4013249842193455992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrSimi_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 212
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d754455113aebc44a93e2761d3ee05f
+      internalID: 8206822264222455344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrSimi_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 207
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f54bca9f258c934e9daabd27f09a3ae
+      internalID: -5103319652632731450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrSimi_Sprite_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 207
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad075bbfd7ec4a84cb5306f717cbb01f
+      internalID: -2489961889550631582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrSimi_Sprite_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 201
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdcba20423697d428ec63ccc3462ca8
+      internalID: 3338562539169518006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrSimi_Sprite_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 194
+        width: 20
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03333599210dbe468491dda286bb183
+      internalID: 9072856171694060850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DrSimi_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 199
+        width: 20
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4433710b554dbc4f99a341900a26ef6
+      internalID: -1036759433511732708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

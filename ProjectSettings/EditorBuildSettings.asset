@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 77b2d4872cb2f6a4082eb10672d6195f
+  - enabled: 1
+    path: Assets/Scenes/Nivel1.unity
+    guid: c4557b50d66441848a48576a8400d720
+  - enabled: 1
+    path: Assets/Scenes/Nivel2.unity
+    guid: e073e5b00a0e85847b949bf93c35aa53
+  - enabled: 1
+    path: Assets/Scenes/VsMadDoor.unity
+    guid: db2b0d6cdc7651f4baf62990a4964ef6
+  - enabled: 1
+    path: Assets/Scenes/MadDoorCutscene.unity
+    guid: 473414a0fad92504fa8812dd17651dc8
+  - enabled: 1
+    path: Assets/Scenes/Nivel3.unity
+    guid: f00c9c029a0514b42bee23c7f1e42ce8
+  - enabled: 1
+    path: Assets/Scenes/Nivel4.unity
+    guid: b1847ceb59a921a4a969fa191a44eb99
+  - enabled: 1
+    path: Assets/Scenes/VsBigBoy.unity
+    guid: e436efded4483a142a557075209a7699
+  - enabled: 1
+    path: Assets/Scenes/BigBoyCutscene.unity
+    guid: 983202531b9206044b248d3c8ffbacda
+  - enabled: 1
+    path: Assets/Scenes/Nivel5.unity
+    guid: 3c4d07fd8f97c524bbfea5214b16f217
+  - enabled: 1
+    path: Assets/Scenes/Nivel6.unity
+    guid: 73f1e6fdb3674014296a376e8517b0a3
+  - enabled: 1
+    path: Assets/Scenes/VsSimi.unity
+    guid: 738f04d7c61640144af43c6f5298aba4
+  - enabled: 1
+    path: Assets/Scenes/EndCutscene.unity
+    guid: e093c4c811142794ba13d7d25603c73f
+  - enabled: 1
+    path: Assets/Scenes/VentanaOpciones.unity
+    guid: bd406388dc1136b4a92517a2934a88a7
+  - enabled: 1
+    path: Assets/Scenes/VentanaKeyBinds.unity
+    guid: 2b845f6e963d8aa4d8cf50c860dd5750
+  - enabled: 1
+    path: Assets/Scenes/IntroCutscene.unity
+    guid: 83bdf73a15e70b842b9f892daf5ae566
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 24aaa3c20f9a40a48b1a848084f2d1f3
+  m_configObjects: {}
